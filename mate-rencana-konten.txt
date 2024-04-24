@@ -1,5 +1,7 @@
 Rencana Konten Mate
 - Java Script
+  * ES6
+  * Framework JS
 - PHP Framework
 - Interview
 - Vlog
