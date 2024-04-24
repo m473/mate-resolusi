@@ -1,5 +1,5 @@
 Mate Resolusi
 - Konsisten belajar programming 1 jam sehari
-- Konsisten membangun desain sistem
 - Konsisten membuat rencana pengembangan sistem
 - Kolaborasi dengan puskid
+- Kolaborasi dengan DPA
